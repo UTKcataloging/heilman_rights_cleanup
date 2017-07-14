@@ -32,5 +32,6 @@
     <!-- apply rights statements.org -->
     <xsl:template match="accessCondition">
         <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-nd/3.0/">Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0)</accessCondition>
+        <note displayLabel="Attribution">Photograph © Alan S. Heilman; Digital Image © 2011 The University of Tennessee Libraries. Creative Commons License Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) with attribution as follows: [Photograph title and item number], The Botanical Photography of Alan S. Heilman, © Alan S. Heilman, © The University of Tennessee Libraries, 2011.</note>
     </xsl:template>
 </xsl:stylesheet>
