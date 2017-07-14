@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
    <identifier type="local">Nelumbo_0720</identifier>
    <name>
       <namePart>Heilman, Alan S.</namePart>
       <role>
-         <roleTerm type="text" authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <titleInfo>
@@ -29,20 +36,24 @@
    </language>
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
-    </location>
-   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85078460">
+   </location>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85078460">
       <topic>Lotus</topic>
    </subject>
-   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85017613">
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85017613">
       <topic>Buds</topic>
    </subject>
    <subject>
       <topic>Nelumbo sp.</topic>
    </subject>
-   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85075608">
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85075608">
       <topic>Leaves</topic>
    </subject>
-   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85102884">
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85102884">
       <topic>Plants, Cultivated</topic>
    </subject>
    <relatedItem type="host" displayLabel="Project">
@@ -56,7 +67,8 @@
       </titleInfo>
       <identifier type="local">AR.0488</identifier>
    </relatedItem>
-   <accessCondition type="use and reproduction">Photograph © Alan S. Heilman. Creative Commons License Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) with attribution as follows: [Photograph title and item number], The Botanical Photography of Alan S. Heilman, © Alan S. Heilman.</accessCondition>
+   <accessCondition type="use and reproduction"
+                    xlink:href="https://creativecommons.org/licenses/by-nc-nd/3.0/">Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0)</accessCondition>
    <recordInfo>
       <recordIdentifier>record_Nelumbo_0720</recordIdentifier>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
